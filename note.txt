@@ -1,0 +1,31 @@
+ // const url =
+  //   "https://min-api.cryptocompare.com/data/v2/histoday?fsym=BTC&tsym=USD&limit=180";
+  // axios
+  //   .get(url)
+  //   .then((res) => {
+  //     //console.log(res.data);
+  //   })
+  //   .catch((err) => console.error(err));
+
+
+
+  //StreamQuote("BTC");
+  //StreamPrice("bitcoin");
+  //StreamPrices();
+  //SearchAsset("BTC2", "bitcoin2");
+
+  // dispacth(getTopAssets("bitcoin"));
+  GetAsset("bitcoin");
+  //dispacth(getAsset("bitcoin"));
+
+  //const { data, error } = useGetDailyOHLCVQuery(180);
+  //console.log(error, data?.Data);
+
+  // const { data, error } = useGetStatsQuery("BTC");
+  // console.log(error, data?.RAW["BTC"].USD);
+
+  // const { data, error } = useGetTradingSignalsQuery("BTC");
+  // console.log(error, data?.Data);
+
+  // const { data, error } = useGetNewsQuery("");
+  // console.log(error, data?.Data);
