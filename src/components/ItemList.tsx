@@ -6,7 +6,7 @@ import useStore from "../store"
 
 const list = [
   { name: 10 },
-  { name: 20 },
+  { name: 30 },
   { name: 50 },
 ]
 
